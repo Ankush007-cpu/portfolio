@@ -672,9 +672,9 @@ box-shadow: var(--neon-box-shadow);
     animation: javascript 4s;
 }
 
-.skill-bar .bar .figma{
+.skill-bar .bar .react{
     width: 80%;
-    animation: figma 5s;
+    animation: react 5s;
 }
 
 
@@ -713,7 +713,7 @@ box-shadow: var(--neon-box-shadow);
     }
 }
 
-@keyframes figma {
+@keyframes react {
     0%{
         width: 0%;
     }
